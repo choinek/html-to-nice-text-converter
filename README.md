@@ -1,4 +1,8 @@
 
+# WIP - IN PROGRESS
+
+Work in progess
+
 # Content Processor Pipeline
 
 A flexible and extensible library for processing and formatting content using a modular pipeline of processors.
